@@ -38,7 +38,9 @@ I am Pesotsky Igor, python developer
 ### Thanks For Watch This Repositories!
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><i>KEEP AWESOME & STAY COOL!</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
+
 ---
+
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Gmail.svg" />][gmail]
 
 ---
