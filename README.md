@@ -26,6 +26,7 @@ I am Pesotsky Igor, python developer
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 ### ⚡ Github Features
+
 ##### 📊 Detail Github Status
 <div>
     <img height=160 src="https://github-readme-stats.vercel.app/api?username=Ireal-ai&show_icons=true&theme=tokyonight" alt="bdfd github status board"  />
