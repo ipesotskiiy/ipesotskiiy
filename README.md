@@ -14,17 +14,22 @@ I am Pesotsky Igor, python developer
 </details>
 
 ### 🛠️ Programming Languages & Tools:
+
 ##### 💻 Programming languages & Database
+
 <p>
   <img height=40 alt="Python Logo" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Programming_Language/python.png" />
   <img src="https://en.wikipedia.org/wiki/PostgreSQL" />
 </p>
+
 ##### 🗄️ Cloud and 🧰 Efficiency Tools
+
 <p>
   <img height=40 alt="Google Cloud Logo" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Cloud_Tech/gcp.png" />
   <img height=40 alt="Git Logo" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Common_Tool/git.png" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
+
 ### ⚡ Github Features
 
 ##### 📊 Detail Github Status
