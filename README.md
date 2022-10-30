@@ -9,7 +9,6 @@
   <summary><b>✨ More About Me</b></summary>
   <br/>
 I am Pesotsky Igor, python developer
-I am Pesotsky Igor, python developer
 </details>
 
 ### 🛠️ Programming Languages & Tools:
