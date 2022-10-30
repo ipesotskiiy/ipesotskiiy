@@ -40,5 +40,7 @@ I am Pesotsky Igor, python developer
 </div>
 ---
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Gmail.svg" />][gmail]
+
 ---
+
 [gmail]: mailto:pesotskygoscha@yandex.ru
