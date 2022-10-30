@@ -28,6 +28,7 @@ I am Pesotsky Igor, python developer
 <div>
     <img height=160 src="https://github-readme-stats.vercel.app/api?username=Ireal-ai&show_icons=true&theme=tokyonight" alt="bdfd github status board"  />
     <img height=160 alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=Ireal-ai&theme=react&border=61dafb&hide_border=true" />
+  
 [![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Ireal-ai&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)](https://github.com/Ireal-ai)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ireal-ai&theme=nord&column=7)](https://github.com/Ireal-ai)
 [![contribution-record](https://activity-graph.herokuapp.com/graph?username=Ireal-ai&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/Ireal-ai)
