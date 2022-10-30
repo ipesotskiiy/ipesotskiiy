@@ -35,7 +35,7 @@ I am Pesotsky Igor, python developer
 </div>
 <div align="center">
   
-### Thanks For Watch This Repositories!
+### Thanks For Watching This Repositories!
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><i>KEEP AWESOME & STAY COOL!</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
