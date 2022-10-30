@@ -1,17 +1,17 @@
 ### Hi there 👋
+<img align="right" width='50%' height='50%' alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif"/>
+### I Am  Work  Python Backend Developer!!
+- 🔭 Currently learning Python
+- ⏳ Currently exploring Python, Django, FastAPI
+- 🎯Life Hack: "Explore 🔥 and Explode 💣
+- 📫 How to reach me at pesotskygoscha@yandex.ru
+- ❤️ Explore and Learn something New
+<details>
+  <summary><b>✨ More About Me</b></summary>
+  <br/>
+I am Pesotsky Igor, python developer
+I am Pesotsky Igor, python developer
+</details>
 
-<!--
-**Ireal-ai/Ireal-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Programming Languages & Tools:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ireal-ai&show_icons=true&theme=dracula)
