@@ -48,7 +48,7 @@ I am Pesotsky Igor, python developer
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ireal-ai&theme=nord&column=7)](https://github.com/Ireal-ai)
   
-[![contribution-record](https://activity-graph.herokuapp.com/graph?username=Ireal-ai&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/Ireal-ai)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ireal-ai&theme=github_dark"/>
 </div>
 
 <div align="center">
