@@ -52,7 +52,7 @@ I am Pesotsky Igor, python developer
   
  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ireal-ai&theme=github_dark)
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ireal-ai&theme=github_dark)
   
 
   
