@@ -40,23 +40,23 @@ I am Pesotsky Igor, python developer
 ##### 📊 Detail Github Status
 
 <div id="icon" align="center">
-<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ireal-ai&theme=github_dark /> 
-<img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ireal-ai&theme=github_dark />  
-<img height=160 alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=Ireal-ai&theme=react&border=61dafb&hide_border=true" />
+<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ipesotskiiy&theme=github_dark /> 
+<img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ipesotskiiy&theme=github_dark />  
+<img height=160 alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=ipesotskiiy&theme=react&border=61dafb&hide_border=true" />
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ireal-ai&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ipesotskiiy-ai&theme=github_dark)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ireal-ai&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=truе)](https://github.com/Ireal-ai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipesotskiiy&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=truе)](https://github.com/ipesotskiiy/github-readme-stats)
   
-[![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Ireal-ai&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=truе)](https://github.com/Ireal-ai)
+[![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ipesotskiiy&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=truе)](https://github.com/ipesotskiiy)
   
- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ireal-ai&theme=github_dark)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ipesotskiiy&theme=github_dark)
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ireal-ai&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipesotskiiy&theme=github_dark)
   
 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ireal-ai&theme=nord&column=7)](https://github.com/Ireal-ai)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ipesotskiiy&theme=nord&column=7)](https://github.com/ipesotskiiy)
   
 </div>
 
