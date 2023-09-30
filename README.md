@@ -1,4 +1,3 @@
-<img align="center" width='50%' height='50%' alt="Hello there" src="https://hypixel.net/attachments/tenor-gif.900216/"/>
 
 <div id="badges" align="left">
   <a href="https://vk.com/igoresha_man"><img src="https://raw.githubusercontent.com/github/explore/b9118a25126aa8eb71413d5819c6c517aeb4d0bb/topics/vk/vk.png" width="50" height = "50"  alt="vk"/></a>
