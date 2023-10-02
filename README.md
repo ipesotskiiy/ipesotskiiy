@@ -1,7 +1,7 @@
 
 <div id="badges" align="left">
-  <a href="https://vk.com/igoresha_man"><img src="https://raw.githubusercontent.com/github/explore/b9118a25126aa8eb71413d5819c6c517aeb4d0bb/topics/vk/vk.png" width="50" height = "50"  alt="vk"/></a>
-  <a href="https://t.me/DarthErebus"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" width="50" height = "50"  alt="vk"/></a>
+  <a href="https://vk.com/ipesotskiiy"><img src="https://raw.githubusercontent.com/github/explore/b9118a25126aa8eb71413d5819c6c517aeb4d0bb/topics/vk/vk.png" width="50" height = "50"  alt="vk"/></a>
+  <a href="https://t.me/ipesotskiy"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" width="50" height = "50"  alt="vk"/></a>
   </div>
 
 <img align="right" width='50%' height='50%' alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif"/>
