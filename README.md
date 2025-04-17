@@ -71,4 +71,4 @@ I am Pesotsky Igor, python developer
 
 ---
 
-[gmail]: mailto:pesotskygoscha@yandex.ru
+[gmail]: mailto:ipesotskiiy@yandex.ru
